@@ -27,8 +27,9 @@ This is fork of https://github.com/DaveGamble/cJSON.git repo. This is structuris
         └── test6
 ```
 ## Build :
-
-Go to top-root directory of the project and do 'make'
-'make' will also build 'app' and 'test' applications
-'make install' will install shared library and headers
+```
+Go to top-root directory of the project and do 'make'.
+'make' will also build 'app' and 'test' applications.
+'make install' will install shared library and headers.
 'make uninstall' will uninstall installed libraries and headers from your machine.
+```
