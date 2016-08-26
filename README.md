@@ -2,7 +2,7 @@
 This is fork of https://github.com/DaveGamble/cJSON.git repo. This is structurised and fixed to use this as shared library for different projects.
 
 ## project structure :
-
+```
 ├── app
 │   ├── cJSON_Utils.c
 │   ├── cJSON_Utils.h
@@ -25,7 +25,7 @@ This is fork of https://github.com/DaveGamble/cJSON.git repo. This is structuris
         ├── test4
         ├── test5
         └── test6
-
+```
 ## Build :
 
 Go to top-root directory of the project and do 'make'
